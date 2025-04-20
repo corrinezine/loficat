@@ -1,0 +1,7 @@
+public/assets/
+├── environments/
+│   ├── blocks/     (用于存放 x1y1.svg 等方块图片)
+│   └── ui/         (用于存放界面相关图片)
+├── sounds/
+├── images/
+└── animations/ 
